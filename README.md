@@ -1,5 +1,6 @@
 # Automated Testing of an E-Commerce Website Using Selenium
 *Overview*
+
 This project automates various functionalities of an e-commerce website (TutorialsNinja) using Selenium WebDriver. The script covers user registration, password recovery, wishlist verification, order history checks, product selection, cart updates, and checkout.
 *Features Automated*
 
@@ -21,11 +22,13 @@ Simulates user interactions like scrolling, clicking buttons, and handling dropd
 Automates screenshot capture for product images.
 
 *Tech Stack*
+
 Python (for scripting)
 Selenium WebDriver (for browser automation)
 Chrome WebDriver (for browser interactions)
 
 *Expected Output*
+
 The script will register a new user, add items to the cart, proceed to checkout, and print the final order details.
 If successful, it will print "Your Account Has Been Created!" and order confirmation details.
 
