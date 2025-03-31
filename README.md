@@ -6,31 +6,38 @@ This project automates various functionalities of an e-commerce website (Tutoria
 
 **Features Automated**
 
-1. User Account Automation
+1. **User Account Automation**
    
 • Registration: Automates the sign-up process with form filling and validation.
+
 • Forgotten Password: Simulates a password reset request.
+
 • Wishlist & Order History: Checks if the wishlist and order history contain items.
 
-3. Product Selection & Cart Operations
+2. **Product Selection & Cart Operations**
    
 • Navigates to the "Laptops & Notebooks" category and adds an HP LP3065 laptop to the cart.
 
-5. Checkout Process
+3. **Checkout Process**
    
 • Fills in billing details automatically for a guest user.
+
 • Selects a delivery date via calendar automation.
+
 • Confirms payment method and final order placement.
 
-7. UI Interactions
+4. **UI Interactions**
    
 • Simulates user interactions like scrolling, clicking buttons, and handling dropdowns.
+
 • Automates screenshot capture for product images.
 
 **Tech Stack**
 
 • Python (for scripting)
+
 • Selenium WebDriver (for browser automation)
+
 • Chrome WebDriver (for browser interactions)
 
 **Expected Output**
@@ -41,7 +48,10 @@ If successful, it will print "Your Account Has Been Created!" and order confirma
 **Key Features:**
 
 ✅ Automates laptop purchase
+
 ✅ Handles dropdowns and date selection
+
 ✅ Supports guest checkout
+
 ✅ Prints final price & success message
 
